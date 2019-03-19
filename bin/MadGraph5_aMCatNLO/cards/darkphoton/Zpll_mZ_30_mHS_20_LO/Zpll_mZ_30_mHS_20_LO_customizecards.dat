@@ -1,0 +1,5 @@
+set param_card mZDinput 30
+set param_card MHSinput 20
+set param_card epsilon 10e-9
+set param_card kap     10e-9
+set param_card aXM1    1.279e+2

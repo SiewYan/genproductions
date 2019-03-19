@@ -1,0 +1,10 @@
+import model --modelname HAHM_MG5model_v3/HAHM_variableMW_v3_UFO
+define p = g u c d s u~ c~ d~ s~
+define j = g u c d s u~ c~ d~ s~
+define l+ = e+ mu+
+define l- = e- mu-
+define vl = ve vm vt
+define vl~ = ve~ vm~ vt~
+generate p p > zp > l+ l-
+
+output Zpll_mZ_30_mHS_20_LO -nojpeg
