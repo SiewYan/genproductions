@@ -1,0 +1,11 @@
+import model sm
+define p = g u c d s u~ c~ d~ s~
+define j = g u c d s u~ c~ d~ s~
+define l+ = e+ mu+
+define l- = e- mu-
+define vl = ve vm vt
+define vl~ = ve~ vm~ vt~
+generate p p > w- h , w- > l- vl~ , h > l- vl~ j j @1
+add process p p > w- h j , w- > l- vl~ , h > l- vl~ j j @2
+add process p p > w- h j j , w- > l- vl~ , h > l- vl~ j j @3
+output sshwminus012j_M125_4f_LO_MLM -nojpeg

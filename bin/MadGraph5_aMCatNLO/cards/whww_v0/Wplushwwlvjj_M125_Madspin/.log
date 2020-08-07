@@ -1,0 +1,9 @@
+Starting job on  Fri Aug 7 07:38:47 CEST 2020
+Running on  Linux lxplus606.cern.ch 2.6.32-754.30.2.el6.x86_64 #1 SMP Wed Jun 10 10:38:41 CEST 2020 x86_64 x86_64 x86_64 GNU/Linux
+System release  Scientific Linux CERN SLC release 6.10 (Carbon)
+name: cards/whww/Wplushwwlvjj_M125_Madspin/
+carddir: Wplushwwlvjj_M125_Madspin
+queue: local
+scram_arch: slc6_amd64_gcc630
+cmssw_version: CMSSW_9_3_16
+/afs/cern.ch/work/s/shoh/analysis/genproductions/bin/MadGraph5_aMCatNLO/Wplushwwlvjj_M125_Madspin  does not exist!
